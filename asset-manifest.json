@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sandesh-Sandy/To_do_List/static/css/main.46b4d85f.chunk.css",
+    "main.js": "/Sandesh-Sandy/To_do_List/static/js/main.ebc261d7.chunk.js",
+    "main.js.map": "/Sandesh-Sandy/To_do_List/static/js/main.ebc261d7.chunk.js.map",
+    "runtime-main.js": "/Sandesh-Sandy/To_do_List/static/js/runtime-main.0d53aae8.js",
+    "runtime-main.js.map": "/Sandesh-Sandy/To_do_List/static/js/runtime-main.0d53aae8.js.map",
+    "static/js/2.82e2241c.chunk.js": "/Sandesh-Sandy/To_do_List/static/js/2.82e2241c.chunk.js",
+    "static/js/2.82e2241c.chunk.js.map": "/Sandesh-Sandy/To_do_List/static/js/2.82e2241c.chunk.js.map",
+    "index.html": "/Sandesh-Sandy/To_do_List/index.html",
+    "precache-manifest.761452849b00a32e25d8d5e4ed619711.js": "/Sandesh-Sandy/To_do_List/precache-manifest.761452849b00a32e25d8d5e4ed619711.js",
+    "service-worker.js": "/Sandesh-Sandy/To_do_List/service-worker.js",
+    "static/css/main.46b4d85f.chunk.css.map": "/Sandesh-Sandy/To_do_List/static/css/main.46b4d85f.chunk.css.map",
+    "static/js/2.82e2241c.chunk.js.LICENSE.txt": "/Sandesh-Sandy/To_do_List/static/js/2.82e2241c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Sandesh-Sandy/To_do_List/static/media/bg.04fabb58.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d53aae8.js",
+    "static/js/2.82e2241c.chunk.js",
+    "static/css/main.46b4d85f.chunk.css",
+    "static/js/main.ebc261d7.chunk.js"
+  ]
+}
