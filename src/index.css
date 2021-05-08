@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url("./assets/bg.webp") no-repeat center center fixed;
+  background: url("https://images.unsplash.com/photo-1597910037254-7437ee4e68ba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGJlYWNoJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
